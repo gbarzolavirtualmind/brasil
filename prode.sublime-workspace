@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"formatted"
+			],
+			[
+				"total",
+				"totalPosted"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"toa",
+				"today"
+			],
+			[
+				"new",
+				"newStart"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"fa",
+				"facebook"
+			],
+			[
+				"Face",
+				"facebook"
+			],
+			[
+				"down",
+				"downloadSource"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"li",
+				"linkedin"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"fe",
+				"feed"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"_res",
+				"_result"
+			],
+			[
+				"obje",
+				"objectId"
+			],
+			[
+				"fee",
+				"_feed"
+			],
+			[
+				"_",
+				"_logger"
+			],
+			[
+				"aut",
+				"authSingly"
+			],
+			[
+				"token_",
+				"token_secret"
+			],
+			[
+				"ah",
+				"authSingly"
+			],
+			[
+				"pase",
+				"parseConfig"
+			],
+			[
+				"ne",
+				"networks"
+			],
+			[
+				"su",
+				"sucess"
+			],
+			[
+				"proces",
+				"processSocialNetworks"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"servic",
+				"services"
+			],
+			[
+				"exec",
+				"executeSingleQuery"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"ver",
+				"verboseLog"
+			],
+			[
+				"respo",
+				"responseCode"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"parsc",
+				"parseConfig"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"tw",
+				"twitterPhoto"
+			],
+			[
+				"wor",
+				"wordpress"
+			],
+			[
+				"reiv",
+				"reviewText"
+			],
+			[
+				"revi",
+				"reviewText"
+			],
+			[
+				"mes",
+				"messageForWordpressTitle"
+			],
+			[
+				"rem",
+				"remaining"
+			],
+			[
+				"send",
+				"sendNotificationToBusiness"
+			],
+			[
+				"reim",
+				"remainingItems"
+			],
+			[
+				"tota",
+				"totalItems"
+			],
+			[
+				"getme",
+				"getSimpleSubscriptionMessage"
+			],
+			[
+				"upda",
+				"update"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/bu.txt",
+		"/C/xampp/htdocs/tumblr/index.php",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/mailing.js",
+		"/D/Backup/mg2.txt",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/Tumblr.php",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/business.js",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/main.js",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/queries.js",
+		"/C/xampp/htdocs/tumblr/log.txt",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/log.txt",
+		"/C/xampp/htdocs/tumblr/BaseClient.php",
+		"/C/xampp/htdocs/tumblr/Messages.php",
+		"/C/xampp/htdocs/tumblr/Tumblr.php",
+		"/C/xampp/htdocs/tumblr/Linkedin.php",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/messages.js",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/public/index.html",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/logging.js",
+		"/C/xampp/htdocs/tumblr/FacebookCustomer.php",
+		"/C/xampp/htdocs/tumblr/vendor/coderockr/parse/Parse/RestClient.php",
+		"/C/xampp/htdocs/tumblr/.htaccess",
+		"/C/xampp/htdocs/tumblr/Facebook.php",
+		"/C/xampp/htdocs/tumblr/vendor/guzzle/guzzle/src/Guzzle/Plugin/Log/LogPlugin.php",
+		"/C/xampp/htdocs/tumblr/YouTube.php",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/singly.js",
+		"/C/xampp/htdocs/tumblr/vendor/guzzle/guzzle/src/Guzzle/Log/Zf2LogAdapter.php",
+		"/C/xampp/htdocs/tumblr/vendor/guzzle/guzzle/src/Guzzle/Http/Client.php",
+		"/C/xampp/htdocs/tumblr/vendor/guzzle/guzzle/src/Guzzle/Http/StaticClient.php",
+		"/C/xampp/htdocs/tumblr/vendor/guzzle/guzzle/composer.json",
+		"/C/xampp/htdocs/tumblr/vendor/guzzle/guzzle/src/Guzzle/Service/Client.php",
+		"/C/xampp/htdocs/tumblr/vendor/facebook/php-sdk/src/base_facebook.php",
+		"/C/xampp/htdocs/tumblr/FacebookCustomer",
+		"/C/xampp/htdocs/tumblr/Twitter.php",
+		"/C/xampp/htdocs/tumblr/Google.php",
+		"/C/xampp/htdocs/tumblr/Wordpress.php",
+		"/C/xampp/htdocs/tumblr/vendor/themattharris/tmhoauth/tmhOAuth.php",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/config/global.json",
+		"/C/xampp/htdocs/tumblr/composer.json",
+		"/C/xampp/htdocs/tumblr/vendor/katzgrau/klogger/klogger.php",
+		"/C/xampp/htdocs/tumblr/vendor/katzgrau/klogger/composer.json",
+		"/C/xampp/htdocs/tumblr/vendor/composer/autoload_namespaces.php",
+		"/C/xampp/htdocs/tumblr/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/tumblr/vendor/composer/autoload_classmap.php",
+		"/C/xampp/htdocs/tumblr/vendor/composer/ClassLoader.php",
+		"/C/xampp/htdocs/tumblr/vendor/composer/include_paths.php",
+		"/C/xampp/htdocs/tumblr/vendor/composer/autoload_real.php",
+		"/C/xampp/htdocs/tumblr/vendor/autoload.php",
+		"/C/xampp/htdocs/tumblr/vendor/katzgrau/klogger/README.md",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/postman.json",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/procesos.txt",
+		"/C/inetpub/wwwroot/besol/Web.config",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/DevExpressPhoneJS-13.2.7/Demos/RealtorApp/index.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/DevExpressPhoneJS-13.2.7/Demos/RealtorApp/views/details.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/DevExpressPhoneJS-13.2.7/Demos/RealtorApp/views/favorites.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/DevExpressPhoneJS-13.2.7/Demos/RealtorApp/views/home.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/DevExpressPhoneJS-13.2.7/Demos/RealtorApp/app.config.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/atlassian-jira (2).log",
+		"/C/Program Files (x86)/Cisco Systems/VPN Client/Profiles/LaCaja2.pcf",
+		"/C/inetpub/wwwroot/Gatwick/Web.config",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/Gatwick/Gatwick/Content/C_C/Users/Gabriel/Documents/repos/gatwitck-master2/Gatwick/Gatwick/obj/James/Package/PackageTmp/Web.config",
+		"/C/Users/Gabriel/Documents/repos/gatwick/Gatwick/build.xml",
+		"/C/Users/gbarzola.VIRTUALMIND/.ssh/id_rsa.pub",
+		"/C/keys/jenkins_rsa.pub",
+		"/C/Users/Gabriel/Documents/repos/gatwick/build.xml",
+		"/C/Users/Gabriel/Documents/repos/gatwick/Gatwick/packages/repositories.config",
+		"/C/Users/Gabriel/Documents/repos/gatwick/Gatwick/Gatwick.Core.Tests/packages.config",
+		"/C/Users/Gabriel/Documents/repos/gatwick/framework/Virtulamind.Infrastructure/packages.config",
+		"/C/Users/Gabriel/Documents/repos/gatwick/framework/Virtulamind.Infrastructure/Virtualmind.Infrastructure.csproj",
+		"/C/Users/Gabriel/Documents/repos/gatwick/framework/.nuget/NuGet.targets",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/atlassian-jira (1).log",
+		"/C/Program Files (x86)/Cisco Systems/VPN Client/Profiles/LaCaja.pcf",
+		"/C/Users/Gabriel/Documents/repos/besol-master/build.xml",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/dami.txt",
+		"/C/Users/Gabriel/Documents/repos/besol-master/msbuild.log",
+		"/C/Users/Gabriel/Documents/repos/besol-master/Backend/obj/Testing/TransformWebConfig/transformed/Web.config",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/atlassian-jira.log",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/previewStep.groovy",
+		"/C/Program Files (x86)/Jenkins/workspace/Besol/build.xml",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/Index.html",
+		"/C/inetpub/wwwroot/besol/Index.html",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/previewStep1.groovy",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/vpnAssignComponenteByTipo.groovy",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/package de.polscheit.jira.listener;",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/package de.polscheit1.jira",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/gantt2/de/polscheit/jira/listener/GanttListener.class",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/moment.js",
+		"/C/Users/Gabriel/Documents/repos/GoSayIt/cloud/sha1.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/gantt/js/dyn-gantt.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/gantt/js/ganttBar.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/gantt-resources3.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Desktop/jira.json",
+		"/C/xampp/htdocs/burako/src/entities.js",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/vpnAssignComponenteInstalaciones.groovy",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/vpnAssignComponenteInstalaciones",
+		"/C/Users/gbarzola.VIRTUALMIND/Downloads/vpnAssignByTipo.groovy"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"generatePromiseResult",
+			"responseMessage",
+			"responseMessage(\"So many reviews!\",resultData.message,false)",
+			"responseMessage",
+			"}\n",
+			"responseMessage",
+			"checkSync",
+			"reachLimit",
+			"isAvailableToSync",
+			"		return isAvailableToSync(total, items.length,3,simpleSubscriptionDate);\n",
+			"isAvailableToSync",
+			"reachLimit",
+			"reachli",
+			"gplus",
+			"TotalSyncByCurrentMonth",
+			"reachLimit",
+			"sync",
+			"getPhoto",
+			"processSocialNetworks",
+			"proxySingly",
+			"data",
+			"linkedin",
+			"getSubscriptionStartDate",
+			"TotalSyncByByPlan",
+			"getSubscriptionStartDate",
+			"reachLimit",
+			"shareOnBusinessSocialNetworks",
+			"notifyFeedById",
+			"isAvailableToSync",
+			"delay",
+			"fbCliente",
+			"fb",
+			"twitter",
+			"singlyToken",
+			"singlyToken\nsinglyToken",
+			"singlyToken",
+			"proxySingly",
+			"getPhoto",
+			"downloadVideo",
+			"processSocialNetworks",
+			"		$feed = executeSingleQuery($queryFeed);\nprocessSocialNetworks",
+			"processSocialNetworks",
+			"token",
+			"proxySingly",
+			"curl_proxy",
+			"processSocialNetworks",
+			"acces",
+			"singlyToken",
+			"getPhoto",
+			"getGoogleAuthData",
+			"processSocialNetworks",
+			"createVideoData",
+			"out",
+			"transientVars",
+			"notifyFeed",
+			"notifica",
+			"notificate",
+			"messageForSocialNewtorks",
+			"getSocialMessage",
+			"getSocialMessage\ngetSocialMessage",
+			"getSocialMessage",
+			"messageForPremiunSubscription",
+			"messages",
+			"isAvailableToSync",
+			"shareFeedOnSocialNetwork",
+			"shareOnBusinessSocialNetworks",
+			"reachLimit",
+			"isAvailableToSync",
+			"Stripe",
+			"reachLimit",
+			"isAvailableToSync",
+			"reachLimit",
+			"type: \"PUT\",",
+			"   type: \"PUT\",",
+			"type: \"PUT\"",
+			"   type: \"PUT\"",
+			"   type: \"PUT\",",
+			"//TODO",
+			"api/2/search",
+			"gantt-settings?",
+			"issue",
+			"onMoveCompleted",
+			"APP_WARP_KEY"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "prode.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"cloud\\main.js"
+			],
+			[
+				"quer",
+				"cloud\\queries.js"
+			],
+			[
+				"bus",
+				"cloud\\business.js"
+			],
+			[
+				"man",
+				"cloud\\main.js"
+			],
+			[
+				"index",
+				"C:\\xampp\\htdocs\\tumblr\\index.php"
+			],
+			[
+				"bu",
+				"cloud\\business.js"
+			],
+			[
+				"messa",
+				"cloud\\messages.js"
+			],
+			[
+				"mes",
+				"cloud\\messages.js"
+			],
+			[
+				"sin",
+				"cloud\\singly.js"
+			],
+			[
+				"lo",
+				"cloud\\logging.js"
+			],
+			[
+				"sing",
+				"cloud\\singly.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
