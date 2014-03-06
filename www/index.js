@@ -1,8 +1,7 @@
 ﻿(function() {
-    "use strict";
-
+    "use strict";    
     var MyApp = window.MyApp = { };
-    
+    MyApp.repo = new WindowsAzure.MobileServiceClient("https://prode.azure-mobile.net/", "exIZTEvtGMIyXACgjvBqHJZVQUrkpj90");
     // Uncomment the line below to disable platform-specific look and feel and to use the Generic theme for all devices
     // DevExpress.devices.current({ platform: "generic" });
 
@@ -10,7 +9,7 @@
         MyApp.app = new DevExpress.framework.html.HtmlApplication({
             namespace: MyApp,
             
-            navigationType: "navbar",
+            navigationType: "simple",
             navigation: [
               {
                 title: "Home",
